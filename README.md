@@ -63,4 +63,4 @@ With just a single command, send your files, photos, and videos from your phone 
 > Requires: Python 3.6+ & pip (recommended on Termux or Pydroid3)
 
 ```bash
-pip install bsb-2025
+pip install bsb-2025==1.0.0
